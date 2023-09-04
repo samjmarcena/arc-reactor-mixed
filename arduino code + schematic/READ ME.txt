@@ -1,4 +1,5 @@
 So, the original project the control of the lights was by arduino and some drivers and bluetooth module.
 My remix due to bluetooth module and for i cant control anymore in my iphone IOS i had to redesign the code. This way, using an arduino nano and two buttons i can control the internal and exterior lights.
 In the original project, the guy used tradicional LEDS 5mm, i was fighting with the space issue (so many wires), so i change that to LED strips. This change was a little bit trick in the begging because i had to adapt the crystal ring to fit the LEDS and i had to ironing all the LEDS cells again but once was done the trouble was worthed.
+I also did a PCB for the circuit, best thing ever.
 In the future i want to redo this part using an ESP32 module that already has module bluetooth integrate. For now, the way it is really works for me.
