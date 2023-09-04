@@ -1,0 +1,3 @@
+So, the original project the control of the lights was by arduino and some drivers and bluetooth module.
+My remix due to bluetooth module and for i cant control anymore in my iphone IOS i had to redesign the code. This way, using an arduino nano and two buttons i can control the internal and exterior lights. 
+In the future i want to redo this part using an ESP32 module that already has module bluetooth integrate. For now, the way it is really works for me.
